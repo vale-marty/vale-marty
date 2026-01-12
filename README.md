@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👩‍💻 Valentina Martinelli
 
+## 📚 Formazione
+- 🎓 **Corso di Laurea: ** Informatica
+- 🏢 **Università:** Università del Piemonte Orientale (UPO) di Vercelli
+- 📅 **Anno:** Secondo Anno
+
+## Linguggi
+- C
+- Phython
+- Java
 <!--
 **vale-marty/vale-marty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
