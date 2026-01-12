@@ -3,9 +3,9 @@
 ## 📚 Formazione
 - 🎓 **Corso di Laurea: ** Informatica
 - 🏢 **Università:** Università del Piemonte Orientale (UPO) di Vercelli
-- 📅 **Anno:** Secondo Anno
+- 📅 **Anno:** Secondo Anno *(in corso)*
 
-## Linguggi
+## 💻 Linguggi
 - C
 - Phython
 - Java
