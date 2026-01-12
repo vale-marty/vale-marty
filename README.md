@@ -7,7 +7,7 @@
 
 ## 💻 Linguggi
 - C
-- Phython
+- Python
 - Java
 <!--
 **vale-marty/vale-marty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
